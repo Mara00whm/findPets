@@ -1,5 +1,8 @@
 # findPets
 
+Используется Firebase
+
+
 В приложении реализовано:
 
 
@@ -15,7 +18,7 @@
 4)История постов у определенного аккаунта
 
 
-https://www.youtube.com/watch?v=QzjEzkIxQ5o   - регистрация
+https://www.youtube.com/watch?v=QzjEzkIxQ5o   - пример работы
 
 
-https://www.youtube.com/watch?v=FYsTglfEmGY   - пример работы
+https://www.youtube.com/watch?v=FYsTglfEmGY   - регистрация
